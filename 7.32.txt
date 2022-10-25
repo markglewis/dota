@@ -1,0 +1,738 @@
+Abaddon
+Support Carry Durable
+Ancient_Apparition Axe Brewmaster Doom Lina Outworld_Destroyer Shadow_Demon
+Death_Prophet Mirana Bane Batrider Beastmaster Chen Techies Bloodseeker Necrophos Legion_Commander Nyx_Assassin
+Storm_Spirit Phantom_Assassin Io Axe Legion_Commander Centaur_Warrunner Oracle
+
+Alchemist
+Carry Support Durable Disabler Initiator Nuker
+Axe Ancient_Apparition Enchantress Invoker Kunkka Lifestealer Necrophos Slardar Slark Ursa Ember_Spirit Razor
+Broodmother Nature's_Prophet Phoenix Undying Huskar
+Oracle
+
+Axe
+Initiator Durable Disabler Jungler Carry
+Doom Jakiro Necrophos Night_Stalker Outworld_Destroyer Phoenix Pugna Shadow_Demon Ursa Venomancer Viper
+Abaddon Anti-Mage Broodmother Dazzle Huskar Morphling Nature's_Prophet Phantom_Assassin Phantom_Lancer Slark Terrorblade Troll_Warlord Weaver
+Ancient_Apparition Dark_Seer Dazzle Enigma Disruptor Magnus Phoenix Sand_King Skywrath_Mage Tiny Venomancer Witch_Doctor
+
+Beastmaster
+Initiator Disabler Durable Nuker
+Abaddon Crystal_Maiden Enchantress Earthshaker Keeper_of_the_Light Oracle Timbersaw Winter_Wyvern
+Monkey_King Phoenix Sven Templar_Assassin Tinker Tiny Troll_Warlord Ursa Wraith_King
+Lifestealer Nature's_Prophet Phantom_Assassin Spirit_Breaker Sven Tinker Tiny Underlord Ursa
+
+Brewmaster
+Carry Initiator Durable Disabler Nuker
+Bane Death_Prophet Lion Outworld_Destroyer Shadow_Shaman Skywrath_Mage
+Abaddon Chaos_Knight Huskar Lone_Druid Lycan Templar_Assassin Ursa
+Dazzle Oracle Tiny Invoker
+
+Bristleback
+Carry Durable Initiator Nuker
+Anti-Mage Doom Faceless_Void Grimstroke Hoodwink Legion_Commander Lion Necrophos Outworld_Destroyer Razor Silencer Slardar Slark Timbersaw Viper Weaver
+Broodmother Chaos_Knight Huskar Jakiro Luna Lycan Meepo Phantom_Lancer Pudge Riki Rubick Sand_King
+Crystal_Maiden Dazzle Drow_Ranger Keeper_of_the_Light Skywrath_Mage Venomancer
+
+Centaur_Warrunner
+Durable Initiator Disabler Nuker Escape
+Clockwerk Disruptor Kunkka Lifestealer Necrophos Nyx_Assassin Templar_Assassin
+Arc_Warden Doom Nyx_Assassin Pangolier Phantom_Assassin Phantom_Lancer Sniper Windranger
+Abaddon Dark_Seer Mirana Sven Tusk Tiny Vengeful_Spirit Grimstroke
+
+Chaos_Knight
+Carry Disabler Durable Pusher Initiator
+Abaddon Anti-Mage Axe Brewmaster Dragon_Knight Earthshaker Enchantress Enigma Lich Magnus Monkey_King Omniknight Phantom_Lancer Puck Sand_King Sven Tidehunter Timbersaw Winter_Wyvern Witch_Doctor
+Bane Bounty_Hunter Disruptor Huskar Lifestealer Lone_Druid Pudge Slark Sniper Ursa Viper
+Crystal_Maiden Keeper_of_the_Light Phantom_Lancer Shadow_Demon
+
+Clockwerk
+Initiator Disabler Durable Nuker
+Anti-Mage Chen Clinkz Dazzle Disruptor Ember_Spirit Huskar Juggernaut Lifestealer Morphling Omniknight Phantom_Lancer Phoenix Queen_of_Pain Terrorblade Ursa Visage
+Earthshaker Enigma Drow_Ranger Legion_Commander Monkey_King Pudge Pugna Sniper Spirit_Breaker Tinker Windranger
+Dark_Seer Invoker Lifestealer Mirana Shadow_Demon _Bloodseeker'
+
+Dawnbreaker
+Carry Durable
+Viper Lifestealer Nyx_Assassin Drow_Ranger Disruptor Faceless_Void
+Nature's_Prophet Legion_Commander Mars Spirit_Breaker Spectre
+Enigma Necrophos Legion_Commander
+
+Doom
+Carry Disabler Initiator Durable Nuker
+Alchemist Centaur_Warrunner Drow_Ranger Lifestealer Lone_Druid Medusa Necrophos Phantom_Lancer Sniper Viper Wraith_King
+Axe Timbersaw Anti-Mage Bristleback Tidehunter Ember_Spirit Invoker Omniknight Tinker Elder_Titan Faceless_Void Pudge Spectre Arc_Warden
+Ancient_Apparition Crystal_Maiden Grimstroke Sven Bane
+
+Dragon_Knight
+Carry Pusher Durable Disabler Initiator Nuker
+Ancient_Apparition Bristleback Drow_Ranger Lich Necrophos Ursa Outworld_Destroyer Razor Timbersaw Viper
+Bloodseeker Clinkz Nyx_Assassin Riki Spirit_Breaker Templar_Assassin Witch_Doctor
+Chen Crystal_Maiden Enigma Magnus Medusa Treant_Protector Vengeful_Spirit
+
+Earth_Spirit
+Nuker Escape Disabler Initiator Durable
+Abaddon Lycan Techies Slark Clockwerk
+Pudge Tinker Invoker Templar_Assassin Enigma
+Alchemist Bloodseeker Dark_Seer Faceless_Void Lifestealer Techies
+
+Earthshaker
+Support Initiator Disabler Nuker
+Clockwerk Death_Prophet Disruptor Earth_Spirit Jakiro Lifestealer Necrophos Outworld_Destroyer Puck Razor Skywrath_Mage Sniper Spectre Templar_Assassin Venomancer Viper Zeus
+Broodmother Chaos_Knight Enigma Legion_Commander Meepo Naga_Siren Nature's_Prophet Phantom_Lancer Spirit_Breaker
+Dark_Seer Enigma Magnus Naga_Siren Puck Sand_King
+
+Elder_Titan
+Initiator Disabler Nuker Durable
+Brewmaster Clockwerk Lich Lion Sven Juggernaut Enchantress Earthshaker
+Meepo Morphling Phantom_Lancer Slark Terrorblade Viper
+Disruptor Faceless_Void Kunkka Slardar Luna
+
+Huskar
+Carry Durable Initiator
+Abaddon Alchemist Ancient_Apparition Axe Bristleback Chaos_Knight Enchantress Bloodseeker Juggernaut Lifestealer Naga_Siren Slardar Storm_Spirit Ursa Viper Windranger Necrophos
+Anti-Mage Weaver Clockwerk Dragon_Knight Earthshaker Ember_Spirit Nature's_Prophet Phoenix
+Ancient_Apparition Beastmaster Dazzle Dawnbreaker Necrophos Omniknight Oracle Pugna Terrorblade Tiny Witch_Doctor
+
+Io
+Support Escape Nuker
+Ancient_Apparition Batrider Bloodseeker Bristleback Clinkz Disruptor Grimstroke Legion_Commander Leshrac Lich Luna Phantom_Assassin Sniper Spirit_Breaker Treant_Protector Winter_Wyvern
+Drow_Ranger Meepo Nature's_Prophet Phoenix Pudge Underlord
+Chaos_Knight Gyrocopter Juggernaut Legion_Commander Lifestealer Phantom_Assassin Spirit_Breaker Sven Tiny Ursa
+
+Kunkka
+Carry Support Disabler Initiator Durable Nuker
+Clinkz Ursa Silencer Mirana Phoenix Omniknight Huskar Juggernaut Lifestealer Sniper Outworld_Destroyer
+Chaos_Knight Broodmother Lycan Meepo Phantom_Lancer Queen_of_Pain Spectre Sand_King Warlock
+Dark_Seer Faceless_Void Huskar Invoker Lifestealer Slark Warlock
+
+Legion_Commander
+Carry Disabler Initiator Durable Nuker
+Abaddon Axe Arc_Warden Bane Dazzle Outworld_Destroyer Io Luna Mars Medusa Omniknight Oracle Pangolier Pugna Razor Skywrath_Mage Sven Underlord Ursa Visage Winter_Wyvern Witch_Doctor
+Anti-Mage Bristleback Broodmother Chen Clinkz Drow_Ranger Huskar Nyx_Assassin Sniper Terrorblade Viper Weaver
+Ancient_Apparition Disruptor Invoker Lifestealer Mirana Shadow_Fiend Silencer Skywrath_Mage Ursa Witch_Doctor Zeus
+
+Lifestealer
+Carry Durable Jungler Escape Disabler
+Ancient_Apparition Bane Beastmaster Chaos_Knight Clinkz Luna Terrorblade Phantom_Lancer Slark Troll_Warlord Ursa Weaver Windranger
+Axe Dark_Willow Invoker Techies Tinker Ogre_Magi Silencer
+Clockwerk Queen_of_Pain Riki Slardar Spirit_Breaker Storm_Spirit Sand_King
+
+Lycan
+Carry Pusher Jungler Durable Escape
+Axe Beastmaster Bloodseeker Bristleback Earthshaker Enigma Enchantress Grimstroke Kunkka Medusa Omniknight Phantom_Assassin Sven Tidehunter Timbersaw Winter_Wyvern
+Lich Techies Arc_Warden Drow_Ranger Ursa
+Beastmaster Chen Nature's_Prophet
+
+Magnus
+Initiator Disabler Nuker Escape
+Alchemist Bloodseeker Disruptor Huskar Jakiro Night_Stalker Phoenix Razor Rubick Sniper Spectre Treant_Protector Tinker Venomancer Wraith_King Zeus
+Chaos_Knight Meepo Lifestealer Phantom_Lancer
+Snapfire Anti-Mage Enigma Invoker Phantom_Assassin Sven Troll_Warlord Phoenix Kunkka Tiny
+
+Marci
+Support Carry Initiator Disabler Escape
+Axe Bloodseeker Dark_Willow Death_Prophet Lifestealer Lycan Necrophos Oracle Pangolier Warlock Weaver
+Enchantress Mars Nature's_Prophet Phoenix Zeus
+Grimstroke Lifestealer Lycan Razor Snapfire Troll_Warlord Ursa Venomancer
+
+Mars
+Carry Initiator Disabler Durable
+Axe Lifestealer Riki Batrider Faceless_Void Huskar Lina Necrophos Ogre_Magi Outworld_Destroyer Pugna Pangolier Shadow_Fiend Storm_Spirit Underlord Undying Venomancer Viper Tusk Zeus
+Bloodseeker Juggernaut Legion_Commander Phantom_Assassin Slark Spectre Terrorblade Weaver
+Dark_Seer Huskar Crystal_Maiden Disruptor Keeper_of_the_Light Kunkka Lich Monkey_King Phoenix Riki Sven
+
+Night_Stalker
+Carry Initiator Durable Disabler Nuker
+Chaos_Knight Lycan Naga_Siren Phantom_Lancer Sven Troll_Warlord
+Storm_Spirit Puck Clinkz Earthshaker Keeper_of_the_Light Tinker Riki Slark
+Oracle Luna Magnus
+
+Omniknight
+Support Durable Nuker
+Brewmaster Doom Enchantress Invoker Lina Luna Naga_Siren Oracle Outworld_Destroyer Rubick Silencer Sven
+Axe Chaos_Knight Death_Prophet Faceless_Void Juggernaut Legion_Commander Phantom_Assassin Winter_Wyvern
+Clockwerk Crystal_Maiden Keeper_of_the_Light Pudge Storm_Spirit
+
+Phoenix
+Support Nuker Initiator Escape Disabler
+Night_Stalker Arc_Warden Huskar Ursa Silencer Meepo Bloodseeker Viper Necrophos Snapfire_
+Templar_Assassin Phantom_Assassin Legion_Commander Monkey_King Chen Earthshaker Ancient_Apparition Shadow_Demon
+Enigma Faceless_Void Invoker Keeper_of_the_Light Lifestealer Magnus Pugna Sven Tinker Treant_Protector Warlock
+
+Primal_Beast
+Initiator Durable Disabler
+Bloodseeker Death_Prophet Disruptor Earth_Spirit Enigma Sven Troll_Warlord Faceless_Void Weaver Good_Against...[] Broodmother Juggernaut Razor Morphling Magnus Phantom_Assassin Pugna
+
+Dark_Seer Disruptor Enigma Mars
+
+Pudge
+Disabler Initiator Durable Nuker
+Abaddon Anti-Mage Bristleback Bounty_Hunter Chaos_Knight Doom Legion_Commander Lifestealer Mirana Necrophos Night_Stalker Nyx_Assassin Outworld_Destroyer Phantom_Assassin Slardar Slark Tidehunter Timbersaw Weaver
+Crystal_Maiden Drow_Ranger Sniper Spectre Tinker Zeus
+Oracle Techies Pugna Outworld_Destroyer Lifestealer Tiny Crystal_Maiden Bloodseeker Omniknight
+
+Sand_King
+Initiator Disabler Support Nuker Escape Jungler
+Earth_Spirit Phoenix Rubick Silencer Tidehunter Zeus
+Broodmother Meepo Nature's_Prophet Phantom_Assassin Slark Templar_Assassin
+Crystal_Maiden Keeper_of_the_Light Tidehunter Tiny Monkey_King Warlock Earthshaker
+
+Slardar
+Carry Durable Initiator Disabler Escape
+Abaddon Meepo Oracle Phantom_Lancer Phoenix
+Anti-Mage Bounty_Hunter Clinkz Legion_Commander Ursa Pudge Riki Shadow_Fiend Weaver
+Bounty_Hunter Vengeful_Spirit Shadow_Fiend Alchemist Lifestealer Phantom_Assassin Templar_Assassin
+
+Snapfire
+Support Nuker Disabler Escape
+Anti-Mage Silencer Nyx_Assassin Ancient_Apparition Juggernaut Abaddon Pudge
+Chen Clockwerk Phantom_Lancer Phoenix Omniknight Faceless_Void
+Clockwerk Faceless_Void Oracle Warlock Mars
+
+Spirit_Breaker
+Carry Initiator Disabler Durable Escape
+Disruptor Omniknight Clockwerk Ember_Spirit Outworld_Destroyer Enigma Invoker Medusa Phoenix Meepo Razor Treant_Protector Underlord Undying
+Anti-Mage Clinkz Nature's_Prophet Tinker
+Bloodseeker Bounty_Hunter Io Lifestealer Dark_Seer Snapfire
+
+Sven
+Carry Disabler Initiator Durable Nuker
+Clockwerk Pugna Razor Omniknight Troll_Warlord Templar_Assassin Winter_Wyvern Wraith_King
+Anti-Mage Broodmother Chaos_Knight Chen Death_Prophet Doom Juggernaut Meepo Pangolier Phantom_Lancer Sniper Tiny Warlock
+Crystal_Maiden Dark_Seer Enigma Io Lion Magnus Oracle Shadow_Shaman
+
+Tidehunter
+Initiator Durable Disabler Nuker Carry
+Anti-Mage Nyx_Assassin Death_Prophet Luna Razor Juggernaut Rubick Slark Ursa
+Bane Batrider Shadow_Fiend Phantom_Lancer Windranger
+Underlord Earthshaker Elder_Titan Invoker Shadow_Fiend
+
+Timbersaw
+Nuker Durable Escape
+Bane Doom Ember_Spirit Faceless_Void Invoker Lion Necrophos Outworld_Destroyer Pangolier Pugna Shadow_Shaman Skywrath_Mage Silencer Storm_Spirit Viper Zeus
+Broodmother Axe Chaos_Knight Meepo Monkey_King Nature's_Prophet Phantom_Assassin Phantom_Lancer Razor Slark Terrorblade Treant_Protector
+Bounty_Hunter Crystal_Maiden Enigma Magnus Faceless_Void
+
+Tiny
+Carry Nuker Pusher Initiator Durable Disabler
+Bristleback Chaos_Knight Juggernaut Lifestealer Lion Necrophos Viper
+Broodmother Meepo Naga_Siren
+Bloodseeker Earthshaker Io Magnus Enigma Slardar Tidehunter Pudge
+
+Treant_Protector
+Support Initiator Durable Disabler Escape
+Monkey_King Phantom_Lancer Rubick Slardar Timbersaw
+Spirit_Breaker Anti-Mage Lycan Storm_Spirit Drow_Ranger Phantom_Assassin
+Keeper_of_the_Light Crystal_Maiden Mirana Nature's_Prophet Pudge Sven Warlock
+
+Tusk
+Initiator Disabler Nuker
+Anti-Mage Disruptor Earth_Spirit Earthshaker Phantom_Lancer Razor Techies
+Bane Bloodseeker Crystal_Maiden Legion_Commander Pugna Shadow_Fiend Sniper Venomancer Viper Monkey_King
+Omniknight Axe Juggernaut Legion_Commander Lifestealer Tidehunter Tiny Meepo
+
+Underlord
+Support Durable Nuker Disabler Escape
+Necrophos Razor Luna Disruptor Kunkka Doom Sniper Outworld_Destroyer Winter_Wyvern Rubick Shadow_Fiend Ursa
+Drow_Ranger Legion_Commander Phantom_Lancer Phantom_Assassin Terrorblade Templar_Assassin
+Disruptor Dragon_Knight Elder_Titan Leshrac Mirana Riki Rubick Timbersaw Vengeful_Spirit
+
+Undying
+Support Durable Disabler Nuker
+Alchemist Earthshaker Gyrocopter Luna Necrophos Silencer Tidehunter
+Nature's_Prophet Spectre Ogre_Magi Centaur_Warrunner Winter_Wyvern Sven Bristleback
+Broodmother Crystal_Maiden Morphling Naga_Siren Pugna Warlock Winter_Wyvern Lich Witch_Doctor
+
+Wraith_King
+Carry Support Durable Disabler Initiator
+Anti-Mage Broodmother Chaos_Knight Juggernaut Invoker Lion Monkey_King Phantom_Lancer Riki Slark Terrorblade Weaver
+Bloodseeker Doom Legion_Commander Necrophos Rubick Techies Witch_Doctor
+Bloodseeker Ogre_Magi
+
+Anti-Mage
+Carry Escape Nuker
+Axe Bane Disruptor Doom Grimstroke Legion_Commander Meepo Night_Stalker Outworld_Destroyer Phantom_Assassin Puck Slardar Slark Shadow_Demon Templar_Assassin Troll_Warlord Viper
+Ancient_Apparition Abaddon Arc_Warden Bristleback Clockwerk Elder_Titan Medusa Ogre_Magi Phoenix Pugna Rubick Spectre Storm_Spirit Tidehunter Undying Venomancer Wraith_King Zeus
+Bane Bounty_Hunter Dazzle Dark_Seer Lion Magnus Oracle Shadow_Demon Slardar Treant_Protector
+
+Arc_Warden
+Carry Escape Nuker
+Broodmother Invoker Anti-Mage Axe Bristleback Chaos_Knight Meepo Naga_Siren Riki Phantom_Lancer Pugna
+Legion_Commander Templar_Assassin Mirana Terrorblade Phoenix Sniper Drow_Ranger Enchantress
+Ancient_Apparition
+
+Bloodseeker
+Carry Disabler Jungler Nuker Initiator
+Abaddon Dazzle Ember_Spirit Faceless_Void Medusa Morphling Omniknight Storm_Spirit Tinker Troll_Warlord Underlord Wraith_King
+Anti-Mage Clinkz Huskar Lycan Meepo Mirana Pangolier Phoenix Queen_of_Pain Riki Slark Sniper Timbersaw Vengeful_Spirit Weaver Windranger
+Ancient_Apparition Batrider Bounty_Hunter Earthshaker Earth_Spirit Invoker Jakiro Luna Magnus Nature's_Prophet Phoenix Queen_of_Pain Venomancer Warlock Zeus
+
+Bounty_Hunter
+Escape Nuker
+Bloodseeker Death_Prophet Luna Rubick Slardar Spectre Spirit_Breaker Venomancer Viper Zeus
+Sniper Nyx_Assassin Shadow_Fiend Pudge
+Invoker Nature's_Prophet Tinker Spectre Zeus
+
+Broodmother
+Carry Pusher Escape Nuker
+Alchemist Axe Ancient_Apparition Bristleback Dark_Seer Dragon_Knight Earthshaker Elder_Titan Ember_Spirit Kunkka Legion_Commander Lina Meepo Necrophos Pangolier Sand_King Shadow_Fiend Storm_Spirit Sven Tidehunter Timbersaw Void_Spirit
+Bane Chen Drow_Ranger Enchantress Medusa Nature's_Prophet Phantom_Assassin Sniper Treant_Protector
+Beastmaster Dazzle Lifestealer
+
+Clinkz
+Carry Escape Pusher
+Bloodseeker Bounty_Hunter Doom Enchantress Lion Morphling Slardar Spectre Spirit_Breaker Treant_Protector Winter_Wyvern Zeus
+Anti-Mage Ember_Spirit Huskar Nature's_Prophet Viper
+Drow_Ranger Omniknight Vengeful_Spirit
+
+Drow_Ranger
+Carry Disabler Pusher
+Faceless_Void Tinker Arc_Warden Tusk Axe Clockwerk Chaos_Knight Huskar Lycan Nyx_Assassin Omniknight Phantom_Lancer Pudge Razor Riki Slark
+Juggernaut Anti-Mage Weaver Mirana Rubick
+Visage Vengeful_Spirit Medusa Enigma Clockwerk
+
+Ember_Spirit
+Carry Escape Nuker Disabler Initiator
+Lion Shadow_Fiend Silencer Storm_Spirit Faceless_Void Omniknight Outworld_Destroyer Nyx_Assassin Kunkka
+Bloodseeker Meepo Chaos_Knight Terrorblade Crystal_Maiden Nature's_Prophet Phantom_Lancer Templar_Assassin Zeus
+Magnus Keeper_of_the_Light Dazzle Faceless_Void
+
+Faceless_Void
+Carry Initiator Disabler Escape Durable
+Abaddon Brewmaster Dawnbreaker Dazzle Earth_Spirit Monkey_King Kunkka Grimstroke Night_Stalker Omniknight Phoenix Pudge Shadow_Demon Silencer Vengeful_Spirit
+Anti-Mage Lifestealer Bloodseeker Bristleback Invoker Juggernaut Mars Morphling Necrophos Puck Queen_of_Pain Razor Rubick Slark Storm_Spirit Weaver
+Dark_Seer Disruptor Enigma Invoker Jakiro Kunkka Lich Outworld_Destroyer Phoenix Sniper Witch_Doctor
+
+Gyrocopter
+Carry Nuker Disabler
+Anti-Mage Arc_Warden Huskar Faceless_Void Juggernaut Lina Lifestealer Omniknight Queen_of_Pain Timbersaw
+Meepo Undying Phantom_Lancer Chaos_Knight Terrorblade
+Bloodseeker Disruptor Earthshaker Enigma Magnus Morphling Rubick Warlock
+
+Hoodwink
+Support Nuker Escape Disabler
+Storm_Spirit Timbersaw Treant_Protector Vengeful_Spirit Beastmaster Warlock Slark Windranger Zeus Techies Clinkz Nyx_Assassin
+Abaddon Bristleback Huskar Lion Monkey_King Phantom_Assassin Phantom_Lancer Morphling Templar_Assassin
+Elder_Titan Monkey_King Nature's_Prophet Windranger Invoker Disruptor Pugna Sand_King
+
+Juggernaut
+Carry Pusher Escape
+Axe Bane Chaos_Knight Enigma Mars Nature's_Prophet Pugna Omniknight Outworld_Destroyer Ursa Pudge Legion_Commander Sniper Windranger
+Dark_Willow Enchantress Invoker Keeper_of_the_Light Necrophos Nyx_Assassin Phoenix Templar_Assassin Zeus
+Crystal_Maiden Lich Dazzle Axe Magnus Shadow_Shaman Venomancer Zeus
+
+Lone_Druid
+Carry Pusher Jungler Durable
+Phantom_Assassin Bristleback Necrophos Skywrath_Mage Grimstroke Outworld_Destroyer Underlord Winter_Wyvern Lich Tinker Death_Prophet Phoenix
+Nature's_Prophet Silencer
+Beastmaster Lycan Ogre_Magi Omniknight
+
+Luna
+Carry Nuker Pusher
+Bristleback Broodmother Juggernaut Lina Meepo Phantom_Lancer Pudge Sniper Slark Shadow_Demon Techies Tinker Zeus
+Arc_Warden Bane Bounty_Hunter Chen Enchantress Legion_Commander Lifestealer Magnus Necrophos Pugna Riki Terrorblade Tidehunter Underlord Winter_Wyvern
+Crystal_Maiden Keeper_of_the_Light Night_Stalker Vengeful_Spirit Shadow_Demon
+
+Medusa
+Carry Disabler Durable
+Anti-Mage Arc_Warden Bane Broodmother Invoker Keeper_of_the_Light Nyx_Assassin Phantom_Lancer Razor Riki Slark Sniper Ursa Mars
+Enchantress Lifestealer Necrophos Sven Undying Lycan Enigma Meepo Axe Visage
+Axe Earthshaker Keeper_of_the_Light Lich Phoenix Shadow_Demon
+
+Meepo
+Carry Escape Nuker Disabler Initiator Pusher
+Axe Earthshaker Elder_Titan Ember_Spirit Kunkka Lion Mars Monkey_King Pangolier Phantom_Assassin Sven Techies Venomancer Viper Winter_Wyvern
+Anti-Mage Legion_Commander Phantom_Lancer Phoenix Queen_of_Pain Shadow_Demon Storm_Spirit
+Disruptor Kunkka Silencer Sven Dazzle
+
+Mirana
+Carry Support Escape Nuker Disabler
+Abaddon Arc_Warden Bloodseeker Lina Lycan Meepo Night_Stalker Puck Slark Windranger
+Crystal_Maiden Drow_Ranger Techies Witch_Doctor
+Axe Bane Batrider Clockwerk Shadow_Demon Sven Underlord
+
+Monkey_King
+Carry Escape Disabler Initiator
+Batrider Beastmaster Bounty_Hunter Brewmaster Disruptor Enchantress Enigma Keeper_of_the_Light Magnus Mars Phantom_Assassin Phoenix Queen_of_Pain Storm_Spirit Techies Timbersaw Vengeful_Spirit Venomancer Viper Windranger
+Alchemist Drow_Ranger Faceless_Void Omniknight Meepo Nature's_Prophet Pudge Shadow_Fiend Spectre Silencer Underlord Skywrath_Mage Witch_Doctor
+Beastmaster Crystal_Maiden Dark_Seer Elder_Titan Magnus Mars Nature's_Prophet Oracle Puck Treant_Protector
+
+Morphling
+Carry Escape Durable Nuker Disabler
+Ancient_Apparition Anti-Mage Arc_Warden Earth_Spirit Elder_Titan Lion Meepo Mirana Outworld_Destroyer Phantom_Lancer Rubick Skywrath_Mage
+Lifestealer Bloodseeker Clockwerk Drow_Ranger Lone_Druid Phantom_Assassin Razor Sniper Others
+Drow_Ranger Earthshaker Tiny Pugna Keeper_of_the_Light Crystal_Maiden Dazzle
+
+Naga_Siren
+Carry Support Pusher Disabler Initiator Escape
+Axe Batrider Earthshaker Lion Outworld_Destroyer Medusa Timbersaw Zeus Gyrocopter Snapfire Leshrac
+Abaddon Omniknight Nature's_Prophet Legion_Commander Templar_Assassin Crystal_Maiden Chen Bounty_Hunter Viper Lycan Night_Stalker Arc_Warden Sniper Rubick Lone_Druid
+Dazzle Disruptor Kunkka Razor Tidehunter
+
+Nyx_Assassin
+Disabler Nuker Initiator Escape
+Bounty_Hunter Bloodseeker Brewmaster Doom Juggernaut Visage Lifestealer Lycan Slardar
+Crystal_Maiden Enchantress Enigma Ember_Spirit Medusa Outworld_Destroyer Phoenix Puck Pugna Sniper Storm_Spirit Tinker
+Invoker Legion_Commander Lifestealer Bloodseeker
+
+Pangolier
+Carry Nuker Disabler Durable Escape Initiator
+Bloodseeker Centaur_Warrunner Faceless_Void Grimstroke Medusa Outworld_Destroyer Puck Slark Spirit_Breaker Tusk
+Arc_Warden Broodmother Legion_Commander Marci Meepo Phantom_Lancer Templar_Assassin Visage
+Abaddon Batrider Clockwerk Dark_Seer Earth_Spirit Jakiro Keeper_of_the_Light Undying
+
+Phantom_Assassin
+Carry Escape
+Axe Bane Broodmother Centaur_Warrunner Dragon_Knight Lina Lion Morphling Omniknight Phoenix Puck Razor Skywrath_Mage Slark Spectre Timbersaw Tinker Troll_Warlord Viper Underlord Hoodwink
+Anti-Mage Crystal_Maiden Dazzle Nature's_Prophet Riki Sniper
+Ancient_Apparition Beastmaster Magnus Omniknight Slardar Vengeful_Spirit Works_poorly_with...[] Pudge Pugna
+
+Phantom_Lancer
+Carry Escape Pusher Nuker
+Axe Batrider Bristleback Centaur_Warrunner Dragon_Knight Earthshaker Ember_Spirit Grimstroke Gyrocopter Hoodwink Jakiro Kunkka Legion_Commander Leshrac Meepo Magnus Pangolier Phoenix Puck Razor Sand_King Storm_Spirit Sven Tidehunter Timbersaw Void_Spirit Witch_Doctor
+Arc_Warden Bounty_Hunter Chaos_Knight Clockwerk Disruptor Lifestealer Lone_Druid Outworld_Destroyer Pugna Shadow_Demon Slark Templar_Assassin Undying Viper Visage Wraith_King
+Bane Crystal_Maiden Dazzle Jakiro Keeper_of_the_Light Oracle Shadow_Shaman Slardar Spirit_Breaker Undying Venomancer
+
+Razor
+Carry Durable Nuker Pusher
+Anti-Mage Chaos_Knight Centaur_Warrunner Earth_Spirit Huskar Morphling Necrophos Outworld_Destroyer Queen_of_Pain Slark Sniper Viper Weaver
+Bristleback Earthshaker Lifestealer Monkey_King Phantom_Assassin Phantom_Lancer Spirit_Breaker Troll_Warlord Ursa Windranger
+Death_Prophet Shadow_Demon Outworld_Destroyer Bane Naga_Siren Winter_Wyvern
+
+Riki
+Carry Escape Disabler
+Axe Bounty_Hunter Bristleback Legion_Commander Meepo Omniknight Razor Slardar Spectre Underlord Viper Zeus
+Anti-Mage Chen Clinkz Crystal_Maiden Drow_Ranger Lifestealer Mars Queen_of_Pain Storm_Spirit Skywrath_Mage Sniper Ursa Weaver
+Faceless_Void Lifestealer Meepo Dark_Seer Magnus Enigma Axe
+
+Shadow_Fiend
+Carry Nuker
+Axe Razor Bane Bounty_Hunter Disruptor Doom Dragon_Knight Luna Night_Stalker Pugna Sniper Spirit_Breaker Tinker Ursa Tidehunter Viper Zeus
+Clockwerk Meepo Nature's_Prophet Silencer Slark
+Bane Clockwerk Enigma Legion_Commander Magnus Slardar Tidehunter Vengeful_Spirit
+
+Slark
+Carry Escape Disabler Nuker
+Ancient_Apparition Grimstroke Axe Bloodseeker Chaos_Knight Disruptor Earthshaker Meepo Omniknight Outworld_Destroyer Phantom_Lancer Puck Pugna Tiny
+Arc_Warden Batrider Drow_Ranger Juggernaut Luna Medusa Phantom_Assassin Sniper Spectre Storm_Spirit Templar_Assassin Warlock
+Bane Earthshaker Keeper_of_the_Light Luna Magnus Kunkka Omniknight Pugna Skywrath_Mage Underlord Witch_Doctor Zeus
+
+Sniper
+Carry Nuker
+Anti-Mage Axe Bloodseeker Bounty_Hunter Centaur_Warrunner Clockwerk Ember_Spirit Invoker Lifestealer Omniknight Phantom_Assassin Phantom_Lancer Pudge Slardar Slark Spectre Spirit_Breaker Storm_Spirit Tusk Viper Weaver
+Drow_Ranger Earthshaker Enigma Medusa Silencer Shadow_Fiend Shadow_Shaman Venomancer Undying
+Bloodseeker Clockwerk Lich Night_Stalker Ogre_Magi Venomancer Drow_Ranger
+
+Spectre
+Carry Durable Escape
+Anti-Mage Dawnbreaker Doom Juggernaut Lifestealer Lion Lycan Meepo Necrophos Omniknight Phantom_Lancer Pugna Riki Shadow_Shaman Storm_Spirit Terrorblade Troll_Warlord Undying Venomancer Viper Winter_Wyvern
+Ancient_Apparition Clinkz Crystal_Maiden Drow_Ranger Earthshaker Lina Magnus Nature's_Prophet Oracle Phantom_Assassin Rubick Sniper Tinker Windranger Zeus
+Bloodseeker Bounty_Hunter Chen Clockwerk Earthshaker Enigma Leshrac Magnus Outworld_Destroyer Treant_Protector Warlock Pudge
+
+Templar_Assassin
+Carry Escape
+Venomancer Windranger Leshrac Phoenix Batrider Viper Dragon_Knight Pudge Huskar Razor Pugna
+Shadow_Fiend Zeus Puck
+Slardar Elder_Titan Vengeful_Spirit
+
+Terrorblade
+Carry Pusher Nuker
+Crystal_Maiden Drow_Ranger Earth_Spirit Axe Elder_Titan Ursa Lina Luna Dark_Seer Shadow_Shaman Ember_Spirit Dazzle Necrophos Outworld_Destroyer Phantom_Lancer Silencer Tinker Troll_Warlord Underlord Zeus Timbersaw Storm_Spirit Sven Skywrath_Mage Nyx_Assassin Techies
+Ancient_Apparition Bane Viper Shadow_Fiend Pudge Anti-Mage Sniper Spectre Lifestealer Witch_Doctor Wraith_King
+Dazzle Oracle Shadow_Demon Necrophos
+
+Troll_Warlord
+Carry Pusher Disabler Durable
+Axe Bane Shadow_Shaman Chaos_Knight Crystal_Maiden Lich Oracle Outworld_Destroyer Razor Sniper Timbersaw Underlord Winter_Wyvern
+Anti-Mage Enchantress Huskar Juggernaut Lifestealer Phantom_Assassin Phoenix Sven Terrorblade Undying
+Ogre_Magi Slardar Vengeful_Spirit Others[]
+
+Ursa
+Carry Jungler Durable Disabler
+Anti-Mage Bane Chaos_Knight Doom Lion Phantom_Lancer Riki Shadow_Demon Slark Storm_Spirit Templar_Assassin Viper Weaver Windranger
+Lifestealer Lina Timbersaw Huskar Medusa Pudge
+Io Disruptor Shadow_Shaman Lion Bane
+
+Vengeful_Spirit
+Support Initiator Disabler Nuker Escape
+Anti-Mage Lina Nyx_Assassin Phantom_Lancer Rubick Spirit_Breaker Tidehunter Viper
+Batrider Clockwerk Faceless_Void Huskar Meepo Monkey_King
+Techies Shadow_Fiend Slardar Drow_Ranger Mirana Bloodseeker Crystal_Maiden Weaver Sniper
+
+Venomancer
+Support Nuker Initiator Pusher Disabler
+Abaddon Anti-Mage Huskar Legion_Commander Oracle Rubick Slark Terrorblade Underlord Wraith_King
+Axe Earthshaker Magnus Mars Monkey_King Spectre Templar_Assassin Techies Windranger
+Ancient_Apparition Undying Viper
+
+Viper
+Carry Durable Initiator Disabler
+Bane Broodmother Chaos_Knight Invoker Morphling Lifestealer Luna Phantom_Lancer Pugna Rubick Terrorblade Weaver Windranger Wraith_King
+Abaddon Axe Bristleback Dragon_Knight Earthshaker Huskar Magnus Mars Monkey_King Necrophos Nyx_Assassin Razor Slark Spectre Templar_Assassin Tidehunter Vengeful_Spirit Venomancer Visage Zeus
+Abaddon Beastmaster Clockwerk Crystal_Maiden Dark_Seer Dazzle Drow_Ranger Earth_Spirit Faceless_Void Lich Luna Necrophos Ogre_Magi Slardar Treant_Protector
+
+Weaver
+Carry Escape
+Axe Bloodseeker Drow_Ranger Faceless_Void Night_Stalker Nyx_Assassin Skywrath_Mage Slardar Zeus
+Ancient_Apparition Brewmaster Lifestealer Undying Pudge Sven Ursa Wraith_King
+Crystal_Maiden Alchemist Vengeful_Spirit
+
+Ancient_Apparition
+Support Disabler Nuker
+Anti-Mage Brewmaster Riki Lycan Mirana Oracle Phantom_Lancer Phoenix Terrorblade Viper Void_Spirit Weaver
+Abaddon Alchemist Chen Crystal_Maiden Dazzle Death_Prophet Huskar Io Morphling Snapfire Winter_Wyvern
+Bloodseeker Faceless_Void Meepo Necrophos Oracle Shadow_Demon Slark Venomancer Winter_Wyvern
+
+Bane
+Support Disabler Nuker Durable
+Abaddon Broodmother Luna Pudge Rubick Slark Tidehunter
+Faceless_Void Legion_Commander Medusa Phantom_Assassin Shadow_Fiend
+Grimstroke Kunkka Mirana Omniknight Pudge Skywrath_Mage
+
+Batrider
+Initiator Jungler Disabler Escape
+Abaddon Kunkka Legion_Commander Nyx_Assassin Oracle Tidehunter Ursa Vengeful_Spirit Venomancer Weaver Slark
+Chen Io Meepo Monkey_King Naga_Siren Techies Templar_Assassin Treant_Protector
+Bloodseeker Ursa Pugna Skywrath_Mage Pudge
+
+Chen
+Support Jungler Pusher
+Crystal_Maiden Enchantress Earthshaker Legion_Commander Sven Lina Luna Monkey_King Venomancer Jakiro Sand_King Timbersaw Necrophos Death_Prophet Dark_Seer Broodmother Alchemist Razor Phoenix Elder_Titan Batrider Ancient_Apparition Underlord
+Techies Arc_Warden Beastmaster Clockwerk Pudge Bane Shadow_Shaman
+Vengeful_Spirit Lycan
+
+Crystal_Maiden
+Support Disabler Nuker Jungler
+Bounty_Hunter Bristleback Clockwerk Doom Earth_Spirit Jakiro Legion_Commander Luna Naga_Siren Nyx_Assassin Tidehunter Tusk Visage
+Slark Phantom_Assassin Templar_Assassin Terrorblade
+Juggernaut Timbersaw Sven
+
+Dark_Seer
+Initiator Jungler Escape Disabler
+Anti-Mage Bloodseeker Ember_Spirit Kunkka Oracle Sniper
+Broodmother Templar_Assassin Treant_Protector Meepo Terrorblade Venomancer
+Bounty_Hunter Elder_Titan Enigma Riki Sven Venomancer
+
+Dark_Willow
+Support Nuker Disabler Escape
+Anti-Mage Axe Arc_Warden Bristleback Drow_Ranger Ember_Spirit Juggernaut Lifestealer Nyx_Assassin Oracle Puck Pudge Riki Silencer Storm_Spirit
+Bloodseeker Faceless_Void Monkey_King Meepo Spirit_Breaker Timbersaw Troll_Warlord Windranger
+Mars Rubick Ember_Spirit Invoker Juggernaut Lina Mirana Phoenix Puck Warlock Weaver Axe
+
+Dazzle
+Support Nuker Disabler
+Ancient_Apparition Axe Naga_Siren Outworld_Destroyer Phantom_Lancer Silencer Doom
+Clockwerk Necrophos Venomancer
+Brewmaster Broodmother Huskar Meepo Naga_Siren Phantom_Lancer
+
+Death_Prophet
+Carry Pusher Nuker Disabler
+Ancient_Apparition Anti-Mage Doom Legion_Commander Omniknight Shadow_Fiend
+Invoker Morphling Timbersaw Nature's_Prophet
+Enigma Faceless_Void Keeper_of_the_Light
+
+Disruptor
+Support Disabler Nuker Initiator
+Abaddon Kunkka Juggernaut Lifestealer Omniknight Phantom_Lancer Pugna Sniper Viper
+Anti-Mage Io Queen_of_Pain Slark Storm_Spirit Tidehunter
+Zeus Anti-Mage Keeper_of_the_Light Warlock Clinkz
+
+Enchantress
+Support Jungler Pusher Durable Disabler
+Razor Broodmother Chen Crystal_Maiden Juggernaut Lina Luna Meepo Nyx_Assassin Riki Timbersaw Troll_Warlord Venomancer Windranger
+Chaos_Knight Ember_Spirit Lycan Omniknight Spirit_Breaker Lifestealer Sven Beastmaster Ursa
+Legion_Commander Lich Io Warlock
+
+Enigma
+Disabler Jungler Initiator Pusher
+Abaddon Anti-Mage Bloodseeker Bristleback Clinkz Clockwerk Doom Jakiro Keeper_of_the_Light Luna Medusa Outworld_Destroyer Pudge Pugna Riki Rubick Silencer Sniper Spectre Storm_Spirit Tusk Vengeful_Spirit Warlock Winter_Wyvern Wraith_King Zeus Tidehunter
+Crystal_Maiden Juggernaut Lifestealer Monkey_King Omniknight
+Ancient_Apparition Lich Axe Crystal_Maiden Dark_Seer Dazzle Earthshaker Magnus Naga_Siren Outworld_Destroyer Phoenix Sand_King Treant_Protector Warlock Witch_Doctor Invoker
+
+Grimstroke
+Support Nuker Disabler Escape
+Puck Shadow_Demon Centaur_Warrunner Sniper Vengeful_Spirit
+Broodmother Crystal_Maiden Io Necrophos Phantom_Lancer Terrorblade Timbersaw Weaver
+Doom Bane Bloodseeker Bounty_Hunter Crystal_Maiden Lich Lion Lina Necrophos Phoenix Pugna Slark Witch_Doctor
+
+Invoker
+Carry Nuker Disabler Escape Pusher
+Anti-Mage Broodmother Doom Faceless_Void Juggernaut Kunkka Lifestealer Night_Stalker Nyx_Assassin Pugna Outworld_Destroyer Queen_of_Pain Silencer Storm_Spirit Templar_Assassin Viper
+Huskar Legion_Commander Medusa Necrophos Tinker Wraith_King
+Bloodseeker Dark_Seer Disruptor Luna Magnus Nature's_Prophet Faceless_Void Legion_Commander
+
+Jakiro
+Support Nuker Pusher Disabler
+Anti-Mage Clockwerk Lifestealer Oracle Rubick Silencer Skywrath_Mage
+Axe Broodmother Chen Chaos_Knight Crystal_Maiden Dark_Willow Enigma Meepo Nature's_Prophet Phantom_Lancer Puck Riki Templar_Assassin Treant_Protector
+Dark_Seer Faceless_Void Kunkka Magnus Shadow_Demon Treant_Protector
+
+Keeper_of_the_Light
+Support Nuker Disabler Jungler
+Juggernaut Legion_Commander Lifestealer Night_Stalker Nyx_Assassin Bloodseeker Silencer Anti-Mage
+Monkey_King Broodmother
+Mars Medusa Lina Luna Pudge Invoker Terrorblade Juggernaut Zeus Pugna
+
+Leshrac
+Carry Support Nuker Pusher Disabler
+Pugna Anti-Mage Clockwerk Lifestealer Nyx_Assassin Oracle
+Meepo Visage Chen Broodmother Io Shadow_Demon Phantom_Lancer
+Dark_Seer Enigma Io Magnus Oracle
+
+Lich
+Support Nuker
+Anti-Mage Bloodseeker Broodmother Huskar Lycan Nature's_Prophet Phantom_Assassin Queen_of_Pain Weaver
+Meepo Chaos_Knight Lone_Druid Arc_Warden
+Magnus Warlock Treant_Protector Witch_Doctor Faceless_Void Enigma Axe Grimstroke
+
+Lina
+Support Carry Nuker Disabler
+Anti-Mage Faceless_Void Lifestealer Nyx_Assassin Phantom_Lancer Silencer Slark Spectre Sven Viper Razor Axe
+Ancient_Apparition Clinkz Crystal_Maiden Dazzle Enchantress Meepo Mirana Morphling Necrophos Pudge Treant_Protector Venomancer
+Shadow_Demon Sven Pugna Bane Grimstroke
+
+Lion
+Support Disabler Nuker Initiator
+Abaddon Lifestealer Puck Rubick Slark Nyx_Assassin Tidehunter
+Drow_Ranger Ember_Spirit Enchantress Medusa Phantom_Assassin Weaver Wraith_King
+Pugna Anti-Mage Centaur_Warrunner Leshrac Tinker Ursa
+
+Nature's_Prophet
+Carry Jungler Pusher Escape Nuker
+Batrider Broodmother Clockwerk Dawnbreaker Death_Prophet Doom Earthshaker Elder_Titan Ember_Spirit Jakiro Lina Luna Meepo Naga_Siren Sand_King Shadow_Shaman Spectre Spirit_Breaker Storm_Spirit Timbersaw Tinker Underlord Visage
+Lich Monkey_King Treant_Protector Venomancer Weaver
+Tiny Skywrath_Mage Bloodseeker Invoker Windranger Timbersaw Riki Mars Zeus
+
+Necrophos
+Carry Nuker Durable Disabler
+Ancient_Apparition Axe Pugna Silencer Nyx_Assassin Dazzle Lina Lion Meepo Oracle Outworld_Destroyer Phantom_Lancer Rubick Shadow_Demon Ursa Viper Wraith_King
+Axe Bristleback Huskar Phoenix Pudge Sven Tidehunter
+Abaddon Axe Earthshaker Legion_Commander Oracle Pugna
+
+Ogre_Magi
+Support Nuker Disabler Durable Initiator
+Chaos_Knight Doom Lifestealer Meepo Phantom_Lancer Omniknight Oracle Slark Viper
+Earthshaker Io Nature's_Prophet Templar_Assassin Weaver Sven
+Grimstroke Juggernaut Sniper Sven Wraith_King
+
+Oracle
+Support Nuker Disabler Escape
+Anti-Mage Axe Bristleback Faceless_Void Shadow_Demon Spectre
+Ember_Spirit Legion_Commander Dark_Willow Omniknight Rubick Ancient_Apparition Silencer Phoenix Necrophos Dark_Seer Techies Skywrath_Mage
+Alchemist Ancient_Apparition Death_Prophet Huskar Io Legion_Commander Monkey_King Shadow_Demon Timbersaw Ursa Leshrac Troll_Warlord Necrophos
+
+Outworld_Destroyer
+Carry Nuker Disabler
+Nyx_Assassin Phantom_Lancer Rubick Silencer Sniper Templar_Assassin
+Anti-Mage Axe Huskar Legion_Commander Winter_Wyvern Morphling Slark Timbersaw Wraith_King
+Ogre_Magi Silencer Shadow_Shaman Bane Lion Disruptor Faceless_Void
+
+Puck
+Initiator Disabler Escape Nuker
+Arc_Warden Faceless_Void Jakiro Lycan Night_Stalker Nyx_Assassin Silencer Templar_Assassin Venomancer Wraith_King
+Void_Spirit Pangolier Crystal_Maiden Mirana Phoenix Sniper Terrorblade
+Dark_Willow Magnus Enigma Invoker Kunkka Phoenix Witch_Doctor
+
+Pugna
+Nuker Pusher
+Anti-Mage Clockwerk Chaos_Knight Luna Nyx_Assassin Oracle Phantom_Lancer Sniper Storm_Spirit Ursa
+Enchantress Juggernaut Timbersaw Leshrac Legion_Commander Shadow_Fiend Faceless_Void Invoker Skywrath_Mage Troll_Warlord
+Grimstroke Io Legion_Commander Necrophos Medusa Phoenix Skywrath_Mage Shadow_Shaman
+
+Queen_of_Pain
+Carry Nuker Escape
+Anti-Mage Arc_Warden Axe Bloodseeker Centaur_Warrunner Death_Prophet Disruptor Faceless_Void Legion_Commander Luna Meepo Night_Stalker Nyx_Assassin Puck Shadow_Shaman Skywrath_Mage Mirana_
+Drow_Ranger Enchantress Huskar Slark
+Axe Dark_Seer Enigma Faceless_Void Lifestealer Magnus Omniknight
+
+Rubick
+Support Disabler Nuker
+Anti-Mage Bristleback Clinkz Night_Stalker Phantom_Assassin Riki Slark Ursa
+Shadow_Shaman Puck Lina Grimstroke Crystal_Maiden Venomancer Sniper Juggernaut Underlord Lion Vengeful_Spirit Pangolier Jakiro Wraith_King Enigma Phoenix Witch_Doctor Shadow_Fiend Undying Magnus Kunkka Luna Morphling
+Alchemist Crystal_Maiden Morphling
+
+Shadow_Demon
+Support Disabler Initiator Nuker
+Ember_Spirit Leshrac Lina Lion Puck Pugna Queen_of_Pain Storm_Spirit Witch_Doctor Wraith_King
+Alchemist Venomancer Anti-Mage Dark_Seer Legion_Commander Omniknight Spectre Juggernaut Luna Techies Windranger
+Ancient_Apparition Dazzle Terrorblade Razor Luna
+
+Shadow_Shaman
+Support Pusher Disabler Nuker Initiator
+Dragon_Knight Mirana Morphling Meepo Riki Wraith_King Visage
+Huskar Nature's_Prophet Spirit_Breaker Templar_Assassin Terrorblade Weaver
+Juggernaut Ursa Troll_Warlord Pugna Legion_Commander_ Monkey_King_
+
+Silencer
+Carry Support Disabler Initiator Nuker
+Broodmother Dragon_Knight Lifestealer Lycan Nyx_Assassin Phantom_Assassin Phantom_Lancer Slark Sniper Ursa
+Bristleback Crystal_Maiden Enigma Medusa Oracle Outworld_Destroyer Pugna Shadow_Demon Terrorblade Timbersaw Tinker Windranger Zeus
+Slardar Crystal_Maiden Anti-Mage Pudge Outworld_Destroyer
+
+Skywrath_Mage
+Support Nuker Disabler
+Anti-Mage Huskar Abaddon Pugna Nyx_Assassin Wraith_King
+Timbersaw Storm_Spirit Enchantress Alchemist Vengeful_Spirit Winter_Wyvern
+Faceless_Void Undying Centaur_Warrunner Pugna Silencer Legion_Commander
+
+Storm_Spirit
+Carry Escape Nuker Initiator Disabler
+Anti-Mage Doom Ember_Spirit Night_Stalker Nyx_Assassin Riki Silencer Techies
+Ancient_Apparition Arc_Warden Bloodseeker Mars Monkey_King Phantom_Lancer Razor Sniper Spectre Terrorblade Tinker Vengeful_Spirit Viper Weaver
+Keeper_of_the_Light Omniknight Lifestealer
+
+Techies
+Nuker Disabler
+Abaddon Anti-Mage Death_Prophet Juggernaut Lifestealer Viper Night_Stalker Oracle Templar_Assassin
+Monkey_King Enchantress Chaos_Knight Morphling
+Batrider Crystal_Maiden Magnus Pugna Tusk Undying
+
+Tinker
+Carry Nuker Pusher
+Anti-Mage Clockwerk Dazzle Doom Legion_Commander Lifestealer Luna Night_Stalker Nyx_Assassin Pudge Silencer Slark Storm_Spirit Vengeful_Spirit Zeus Pugna Kunkka
+Bloodseeker Chaos_Knight Faceless_Void Shadow_Fiend Terrorblade Timbersaw
+Faceless_Void Kunkka Nature's_Prophet Spirit_Breaker Bloodseeker Keeper_of_the_Light Bounty_Hunter Slardar
+
+Visage
+Support Nuker Durable Disabler Pusher
+Axe Doom Luna Phoenix Tidehunter Timbersaw Tiny Venomancer Viper
+Clockwerk Nature's_Prophet Puck Pudge Shadow_Shaman Spectre Techies
+Slardar Lifestealer Beastmaster Elder_Titan Marci
+
+Void_Spirit
+Carry Escape Nuker Disabler
+Bane Bloodseeker Death_Prophet Bounty_Hunter Doom Ember_Spirit Meepo Puck Queen_of_Pain Slardar Templar_Assassin Viper
+Broodmother Terrorblade Gyrocopter Morphling Monkey_King Windranger
+Keeper_of_the_Light Pudge Pugna Bane Bloodseeker
+
+Warlock
+Support Initiator Disabler
+Weaver Anti-Mage Silencer Dark_Seer Ember_Spirit Lycan Ancient_Apparition Nyx_Assassin Sven
+Huskar Meepo Templar_Assassin Shadow_Fiend Enigma
+Sven Bloodseeker Axe Dark_Seer Kunkka Magnus Enigma Silencer Spectre
+
+Windranger
+Carry Support Disabler Escape Nuker
+Anti-Mage Axe Bloodseeker Centaur_Warrunner Nyx_Assassin Ember_Spirit Razor Spectre Sven Shadow_Demon Venomancer Void_Spirit
+Earthshaker Huskar Hoodwink Phantom_Assassin Pudge Ursa
+Bloodseeker Nature's_Prophet Hoodwink
+
+Winter_Wyvern
+Support Disabler Nuker
+Ancient_Apparition Invoker Luna Omniknight Outworld_Destroyer Pugna Skywrath_Mage Slark Timbersaw Tinker Undying Ursa
+Beastmaster Chaos_Knight Lycan Legion_Commander Meepo Troll_Warlord
+Dark_Seer Enigma Magnus Venomancer Invoker
+
+Witch_Doctor
+Support Nuker Disabler
+Faceless_Void Kunkka Lina Luna Morphling Omniknight Oracle Pudge Riki Rubick Silencer Tidehunter Vengeful_Spirit
+Bloodseeker Lone_Druid Lycan Monkey_King Venomancer Viper
+Enigma Faceless_Void Lich Magnus Underlord Undying
+
+Zeus
+Nuker Carry
+Anti-Mage Faceless_Void Chaos_Knight Juggernaut Lifestealer Meepo Pudge Pugna Silencer Templar_Assassin Ursa Viper
+Slardar Enchantress Timbersaw Bounty_Hunter Winter_Wyvern Lich Necrophos Tinker
+Ancient_Apparition Bloodseeker Dazzle Tidehunter
+
