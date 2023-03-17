@@ -1,5 +1,6 @@
 from classes.Hero import Hero
 import sys
+import json
 
 HEROSK = {
     **dict.fromkeys(["abaddon"], "Abaddon"),
@@ -124,6 +125,7 @@ HEROSK = {
     **dict.fromkeys(["winterwyvern", "ww"], "Winter_Wyvern"),
     **dict.fromkeys(["withdoctor", "wd"], "Witch_Doctor"),
     **dict.fromkeys(["zeus"], "Zeus"),
+    **dict.fromkeys(["muerta"], "Muerta"),
 }
 
 
@@ -164,7 +166,9 @@ def displaypicked():
     for key,value in heros.items():
         if value.ispicked:
             print(key)
-
+        
+def displayhero(pickedhero):
+    print(heros[pickedhero])
 
 def reset():
     print(heros)
@@ -172,30 +176,14 @@ def reset():
         val.reset()
     
 
-
-f = open("7.32.txt", "r")
-
 heros = {}
+with open('7.32e.json') as json_file:
+    data = json.load(json_file)
+    for key in data:
+        heros[key] = Hero(key,data[key]['roles'],data[key]['ba'],data[key]['ga'],data[key]['gw'],data[key]['bw'])
 
-line= f.readline()
-
-
-while line:
-    name = line.strip('\n')
-
-    roles = f.readline().strip('\n').split()
-
-    ba = f.readline().strip('\n').split()
-
-    ga = f.readline().strip('\n').split()
-
-    gw = f.readline().strip('\n').split()
-
-    heros[name] = Hero(name,roles,ba,ga,gw)
-    
-    line=f.readline()
-    line=f.readline()
-f.close
+#for hero in heros:
+#    print(heros[hero])
 
 userI = ""
 while True:
@@ -235,6 +223,16 @@ while True:
     
     elif userI == "displaybest":
         displaybest()
+    
+    elif userI == "displayhero":
+        print("Enter Hero")
+        hero = input()
+        if hero == "exit":
+            sys.exit()
+        elif hero in HEROSK.keys():
+            displayhero((HEROSK[hero]))
+        else:
+            print("hero not found")
         
 
     elif userI == "reset":
@@ -242,7 +240,7 @@ while True:
 
     elif userI == "help":
         print("commands")
-        print("addenemy, addteamate, ban, displaypicked, displaybest, reset")
+        print("addenemy, addteamate, ban, displaypicked, displaybest, reset, displayhero")
 
     elif userI == "exit":        
         sys.exit()
