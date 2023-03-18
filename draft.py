@@ -180,10 +180,10 @@ heros = {}
 with open('7.32e.json') as json_file:
     data = json.load(json_file)
     for key in data:
-        heros[key] = Hero(key,data[key]['roles'],data[key]['ba'],data[key]['ga'],data[key]['gw'],data[key]['bw'])
+        heros[key] = Hero(key)
 
-#for hero in heros:
-#    print(heros[hero])
+for hero in heros:
+    print(heros[hero])
 
 userI = ""
 while True:
