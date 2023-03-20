@@ -182,66 +182,43 @@ with open('7.32e.json') as json_file:
     for key in data:
         heros[key] = Hero(key)
 
-for hero in heros:
-    print(heros[hero])
+#for hero in heros:
+#    print(heros[hero])
 
 userI = ""
 while True:
-    userI = input()
-    if userI == "addenemy":
-        print("Enter Hero")
-        hero = input()
-        if hero == "exit":
-            sys.exit()
-        elif hero in HEROSK.keys():
-            addenemy(HEROSK[hero])
-        else:
-            print("hero not found")
+    userI = input().split(" ")
+    hero = ""
+    try:
+        hero = userI[1]
+    except:
+        hero = ""
 
-    elif userI == "addteamate":
-        print("Enter Hero")
-        hero = input()
-        if hero == "exit":
-            sys.exit()
-        elif hero in HEROSK.keys():
-            addteamate(HEROSK[hero])
-        else:
-            print("hero not found")
+    if userI[0] == "ae" and hero in HEROSK.keys():
+        addenemy(HEROSK[hero])
 
-    elif userI == "ban":
-        print("Enter Hero")
-        hero = input()
-        if hero == "exit":
-            sys.exit()
-        elif hero in HEROSK.keys():
-            banhero(HEROSK[hero])
-        else:
-            print("hero not found")
+    elif userI[0] == "at" and hero in HEROSK.keys():
+        addteamate(HEROSK[hero])
 
-    elif userI == "displaypicked":
+    elif userI[0] == "ban" and hero in HEROSK.keys():
+        banhero(HEROSK[hero])
+
+    elif userI[0] == "dp":
         displaypicked()
     
-    elif userI == "displaybest":
+    elif userI[0] == "db":
         displaybest()
     
-    elif userI == "displayhero":
-        print("Enter Hero")
-        hero = input()
-        if hero == "exit":
-            sys.exit()
-        elif hero in HEROSK.keys():
-            displayhero((HEROSK[hero]))
-        else:
-            print("hero not found")
+    elif userI[0] == "dh" and hero in HEROSK.keys():
+        displayhero((HEROSK[hero]))
         
 
-    elif userI == "reset":
+    elif userI[0] == "reset":
         reset()
 
-    elif userI == "help":
+    elif userI[0] == "help" or userI == "?":
         print("commands")
         print("addenemy, addteamate, ban, displaypicked, displaybest, reset, displayhero")
 
-    elif userI == "exit":        
+    elif userI[0] == "exit":        
         sys.exit()
-

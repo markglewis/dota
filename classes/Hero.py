@@ -5,7 +5,6 @@ class Hero:
         data = {}
         with open('7.32e.json') as json_file:
             data = json.load(json_file)[name]
-        print(data)
         self.roles= data['roles']
         self.ba = data['ba']
         self.ga = data['ga']
